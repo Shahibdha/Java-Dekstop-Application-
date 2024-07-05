@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: View.LoginView
-Class-Path: mysql-connector-j-8.0.32.jar javax.mail.jar flatlaf-intellij
- -themes-3.1.1.jar protobuf-java-3.21.9.jar activation-1.1.jar javax.mai
- l-1.5.6.jar flatlaf-3.1.1.jar rs2xml.jar
-
